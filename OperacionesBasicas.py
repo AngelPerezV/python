@@ -28,7 +28,7 @@ print(edad % 2)#residuo de una division
 #  __
 # √ 5 = (5)^(1/2)
 # 3^√5 = (5)^(1/3)
-#En el caso de sacarr raiz cuadrada si nencesidad e llamar a otras librerias externas 
+#En el caso de sacarr raiz cuadrada sin nencesidad de llamar a otras librerias externas 
 print(5 ** 0.5)
 print(81 ** 0.5)
 
