@@ -1,1 +1,1 @@
-# python
+#Notas de python 
